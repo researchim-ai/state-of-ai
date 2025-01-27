@@ -1,0 +1,19 @@
+Ребята из **DeepSeek** хотели посмотреть, нам SFT вот прям всегда нужен?
+
+В качестве базы взяли свою [DeepSeek V3](https://github.com/deepseek-ai/DeepSeek-V3) (671 миллиард параметров) модельку.  
+
+RL-алгоритм взяли тоже свой - **Group Relative Policy Optimization (GRPO)** который впервые представили в статье  
+
+**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**
+https://arxiv.org/abs/2402.03300
+
+**GRPO:**
+
+Семплируются нескольких ответов на один и тот же вопрос.
+Награда нормализуется внутри этой группы ответов.
+Модель учится уже на этих нормализованных наградах.
+
+Вообще PPO алгоритм (сам по себе, не только в контексте обучения LLM) требует обучения двух моделей - **policy** и **value** (actor/critic). В GRPO нужен только **policy**.
+
+Так-то всё здесь:
+https://github.com/deepseek-ai/DeepSeek-R1
