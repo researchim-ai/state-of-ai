@@ -4,8 +4,10 @@
 
 RL-алгоритм взяли тоже свой - **Group Relative Policy Optimization (GRPO)** который впервые представили в статье  
 
-**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**
+**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**  
 https://arxiv.org/abs/2402.03300
+
+![image](https://github.com/user-attachments/assets/f98d631a-f800-4828-8d44-35a7d8063e96)
 
 **GRPO:**
 
