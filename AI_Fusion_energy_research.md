@@ -1,5 +1,3 @@
-![](src/AI_Fusion_Energy_research/_page_0_Picture_0.jpeg)
-
 # Искусственный интеллект в термоядерной энергетике: применение, проекты и инструменты
 
 ## Введение
@@ -131,19 +129,49 @@ ITER (Франция) – международный токамак нового
 ### Основные источники
 
 1. DeepMind & EPFL – Управление плазмой токамака с помощью глубокого обучения
+   - [Accelerating fusion science through learned plasma control](https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control/)
+   - [Искусственный интеллект для управляемого термоядерного синтеза](https://22century.ru/energetics/105772)
+
 2. DOE/Princeton – Предотвращение нестабильностей плазмы через deep reinforcement learning
+   - [AI Tackles Disruptive Tearing Instability in Fusion Plasma](https://www.energy.gov/science/fes/articles/ai-tackles-disruptive-tearing-instability-fusion-plasma)
 
 3. Futura Science – Обзор ИИ в управлении термоядерной плазмой (достижения DeepMind, предсказание сбоев, цифровые двойники)
+   - [Nuclear fusion meets AI: plasma feats that are leaving researchers speechless](https://www.futura-sciences.com/en/nuclear-fusion-meets-ai-plasma-feats-that-are-leaving-researchers-speechless_21036/)
+
 4. iXBT – Ускорение моделирования плазмы нейросетью FPL-net (UNIST, 2025)
+   - [При помощи нейросетей удалось ускорить моделирование плазмы для термоядерного синтеза в 1000 раз](https://www.ixbt.com/news/2025/03/02/pri-pomoshi-nejrosetej-udalos-uskorit-modelirovanie-plazmy-dlja-termojadernogo-sinteza-v-1000-raz.html)
+
 5. PPPL News – ИИ для предотвращения срывов на DIII-D (Y. Fu et al., 2020)
+   - [Using artificial intelligence to speed up and improve the most computationally intensive aspects of plasma physics in fusion](https://www.pppl.gov/news/2024/using-artificial-intelligence-speed-and-improve-most-computationally-intensive-aspects)
+   - [Artificial intelligence helps prevent disruptions in fusion devices](https://www.pppl.gov/news/2021/artificial-intelligence-helps-prevent-disruptions-fusion-devices)
+
 6. DOE Fusion – Избежание tearing-нестабильности с помощью RL (Nature 2024)
+   - [AI Tackles Disruptive Tearing Instability in Fusion Plasma](https://www.energy.gov/science/fes/articles/ai-tackles-disruptive-tearing-instability-fusion-plasma)
+
 7. DeepMind Blog – Партнерство с CFS (SPARC) и выпуск симулятора TORAX (2025)
+   - [Google DeepMind is bringing AI to the next generation of fusion energy](https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/)
+
 8. 22century.ru – Статья на русском о проекте DeepMind по управлению плазмой (TCV, 2022)
+   - [Искусственный интеллект для управляемого термоядерного синтеза](https://22century.ru/energetics/105772)
+
 9. IPP (Max-Planck) – ИИ в исследовании плазмы (обнаружение выбросов, равновесие W7-X)
+   - [Artificial intelligence in fusion research](https://www.ipp.mpg.de/5372351/ki_in_der_Fusionsforschung_2023)
+   - [Detecting Plasma Detachment in the Wendelstein 7-X Stellarator](https://www.mdpi.com/2076-3417/12/1/269)
+
 10. IAEA TM 2024 – Применение ИИ на токамаке EAST (Xiao B. и др.)
+    - [IAEA Technical Meeting contributions](https://conferences.iaea.org/event/377/contributions/31638/contribution.pdf)
+
 11. EUROfusion News – 15 новых проектов ИИ для синтеза (2024)
+    - [EUROfusion spearheads advances in Artificial Intelligence and Machine Learning to unlock fusion energy](https://euro-fusion.org/eurofusion-news/eurofusion-spearheads-advances-in-artificial-intelligence-and-machine-learning-to-unlock-fusion-energy/)
+
 12. Tokamak Energy Blog – О важности цифровых двойников и ИИ для ускорения разработки (2024)
+    - [AI will accelerate path to clean fusion energy in fight against climate change](https://tokamakenergy.com/2024/01/17/ai-will-accelerate-path-to-clean-fusion-energy-in-fight-against-climate-change/)
+
 13. GitHub – Список open-source проектов по термояду (kripnerl/fusion-open-source)
+    - [GitHub - kripnerl/fusion-opensource: List of interesting fusion open source projects](https://github.com/kripnerl/fusion-open-source)
+
+14. ScienceDirect – Оценка мощности синтеза с помощью машинного обучения
+    - [A machine learning case study in nuclear fusion: Assessment of the Radial Gamma Ray Spectrometer (RGRS) measurements](https://www.sciencedirect.com/science/article/pii/S2666546825000588)
 
 - [Google DeepMind is bringing AI to the next generation of fusion energy](https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/) - Google DeepMind
 
