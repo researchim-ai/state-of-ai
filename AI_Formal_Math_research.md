@@ -173,6 +173,10 @@ Google DeepMind: Эта компания (ныне подразделение Go
 
 ### **Источники:**
 
+#### Коллекция ресурсов:
+
+- **[DL4TP — Deep Learning for Theorem Proving](https://github.com/zhaoyu-li/DL4TP)** — репозиторий с обширной коллекцией работ по глубокому обучению для доказательства теорем (COLM 2024). Включает разделы по автоформализации, выбору предпосылок, генерации шагов доказательства, поиску доказательств, датасетам и многому другому. Каждая работа помечена используемой системой доказательств (Lean, Coq, Isabelle, HOL Light, Metamath и др.).
+
 #### Основные публикации:
 
 - [1](https://arxiv.org/html/2404.09939v1#:~:text=Proving%20theorems%20is%20a%20cornerstone,these%20advancements%2C%20later%20research%20extended) [2](https://arxiv.org/html/2404.09939v1#:~:text=Exploring%20learning,of%20progress%20and%20indicate%20the) [5](https://arxiv.org/html/2404.09939v1#:~:text=ATP%20aims%20to%20verify%20formal,a%20proof%20or%20refutation%20is) [7](https://arxiv.org/html/2404.09939v1#:~:text=GPT,repair%20the%20whole%20proof%20at) [8](https://arxiv.org/html/2404.09939v1#:~:text=match%20at%20L363%20first%C2%A0,first) [9](https://arxiv.org/html/2404.09939v1#:~:text=match%20at%20L511%202019%3B%20Polu,%282022%29%20further) [25](https://arxiv.org/html/2404.09939v1#:~:text=steps,Datasets%20for%20other%20proof) [51](https://arxiv.org/html/2404.09939v1#:~:text=achieves%2027.6,2024%29%2C%20outperforms%20a%20symbolic) [53](https://arxiv.org/html/2404.09939v1#:~:text=first%C2%A0,first) [56](https://arxiv.org/html/2404.09939v1#:~:text=large%20language%20models%2C%20has%20sparked,aims%20to%20serve%20as%20a) A Survey on Deep Learning for Theorem Proving — arXiv
